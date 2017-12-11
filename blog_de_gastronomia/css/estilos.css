@@ -1,0 +1,22 @@
+
+body {
+  background-image: url(imagenes/fondo2.jpg);
+  font-family: verdana;
+}
+
+.cabecera1{
+  background-color: rgba(124,135,157,0.9);
+  padding: 20px;
+}
+
+.barra-lateral {
+  background-color: #dfdff4;
+  padding-top: 20px;
+  border-radius: 5px;
+}
+
+.barra-central {
+  background-color: #ffe9f8;
+  padding-top: 20px;
+  border-radius: 5px;
+}
